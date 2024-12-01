@@ -26,6 +26,7 @@ DES_Cryptography/
 - **Encryption and Decryption:** Implements core DES functions for data encryption and decryption.
 - **Modern C++ Standards:** Built with C++23, leveraging modern language features for clarity and performance.
 - **Modular Design:** Organized with separate directories for headers and source files for better maintainability.
+- **Designed as Library**: The project is structured to function as a reusable library.
 
 ## TODOs
 - Add functionality to encrypt and decrypt strings.
